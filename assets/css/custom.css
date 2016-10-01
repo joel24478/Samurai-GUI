@@ -61,3 +61,12 @@ header .header-content .header-content-inner h1 {
         font-size: 1.3rem !important;
     }
 }
+
+hr {
+    border-color: #c72e45;
+}
+
+.history-img {
+    width: 700px;
+    height: 400px;
+}
